@@ -1,0 +1,54 @@
+.wrapper{
+  box-sizing: content-box;
+  background-color: transparent;
+  height: 40px;
+  display: flex;
+}
+
+.words{
+  overflow: hidden;
+  color:#633E1B;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.span{
+  display: block;
+  height: 110%;
+
+  animation: spin_words 10s infinite;
+}
+
+@keyframes spin_words {
+  10%{
+    transform: translateY(-112%);
+  }
+
+  25%{
+    transform: translateY(-100%);
+  }
+
+  35%{
+    transform: translateY(-212%);
+  }
+
+  50%{
+    transform: translateY(-200%);
+  }
+
+  60%{
+    transform: translateY(-312%);
+  }
+
+  75%{
+    transform: translateY(-300%);
+  }
+
+  85%{
+    transform: translateY(-412%);
+  }
+
+  100%{
+    transform: translateY(-400%);
+  }
+}

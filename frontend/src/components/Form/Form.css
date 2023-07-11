@@ -1,0 +1,68 @@
+.contact-fields{
+  display: flex;
+}
+
+.contact-field-name, .contact-field-email, .contact-field-subject, .contact-field-phone {
+  height: 45px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.contact-field-name{
+margin-right: 10px;
+}
+
+.contact-field-phone{
+  margin-left: 5px;
+  }
+
+.contact-textarea{
+  height: 80px;
+  width: 100%;
+  border: 1px solid lightgrey;
+  border-radius: 6px;
+  outline: none;
+  padding: 0 15px;
+  resize: none;
+}
+
+.contact-field-textarea{
+  width: 100%;
+  margin-bottom: 15px;
+  height: 80px;
+}
+
+.contact-input{
+  height: 100%;
+  width: 100%;
+  border: 1px solid lightgrey;
+  border-radius: 6px;
+  outline: none;
+  padding: 0 15px;
+}
+
+.contact-send-button{
+  height: 47px;
+}
+
+.contact-button{
+  width: 100%;
+  height: 100%;
+  border: 2px solid #633E1B;
+  background-color: #633E1B;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.contact-button:hover{
+  background-color: #fff;
+  color: #633E1B;
+}
+
+.form{
+  font-size: 16px;
+}

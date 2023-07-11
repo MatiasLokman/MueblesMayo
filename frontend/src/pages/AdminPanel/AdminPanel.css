@@ -1,0 +1,113 @@
+.adminpanel-container {
+  height: 100vh;
+  width: 100%;
+  object-fit: contain;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 50px 0;
+}
+
+.adminpanel-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  padding: 0 10%;
+}
+
+.category-btn {
+  width: 200px;
+  height: 150px;
+  border-radius: 25px;
+  background-color: #633E1B;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.6s;
+}
+
+.category-btn:hover {
+  background-color: #000000;
+  box-shadow: 0px 0px 16px #633E1B;
+}
+
+.category-btn:focus {
+  background-color: #000000;
+  box-shadow: 0px 0px 16px #633E1B;
+}
+
+.btn-dark {
+  --bs-btn-active-bg: #000000;
+}
+
+.category-svg {
+  fill: #eeeeee;
+  width: 70px;
+  height: 70px;
+}
+
+.category-title {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.secciones {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  margin-top: 25px;
+}
+
+.seccion-dividida {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+
+@media (max-width: 500px) {
+  .seccion-dividida {
+    flex-direction: column;
+  }
+
+  .adminpanel-content {
+    padding-top: 7%;
+  }
+
+  .adminpanel-container {
+    height: 100%;
+  }
+
+  .error {
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 420px) {
+  .category-btn {
+    width: 180px;
+    height: 130px;
+  }
+
+  .category-svg {
+    width: 55px;
+    height: 55px;
+  }
+
+  .seccion-dividida {
+    gap: 15px;
+  }
+
+  .secciones {
+    gap: 15px;
+  }
+}

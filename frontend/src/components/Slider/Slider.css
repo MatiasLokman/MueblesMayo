@@ -1,0 +1,98 @@
+.container-slider {
+  height: 350px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 25px;
+}
+
+.container-slider2{
+  height: 350px;
+position: sticky;
+overflow: hidden;
+border-radius: 25px;
+display: none;
+}
+
+.slide {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  opacity: 0;
+  transition: opacity ease-in-out 0.4s;
+}
+.slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+}
+.active-anim {
+  opacity: 1;
+}
+
+/* btns */
+.btn-slide {
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  fill: #ffffff;
+}
+
+.btn-slide img {
+  width: 40px;
+  height: 40px;
+  pointer-events: none;
+}
+
+.prev {
+  top: 50%;
+  left: 0px;
+  transform: translateY(-50%);
+}
+
+.next {
+  top: 50%;
+  right: 0px;
+  transform: translateY(-50%);
+}
+
+/* dots */
+.container-dots {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+}
+.dot {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 2px solid #f1f1f1;
+  margin: 0 5px;
+  background: #f1f1f1;
+  cursor: pointer;
+}
+.dot.active {
+  background: rgba(32, 32, 32, 0.800);
+}
+
+@media (max-width: 650px) {
+  .container-slider{
+    display: none;
+  }
+  
+  .container-slider2{
+    display: flex;
+  }
+}
+
+/* @media (max-width: 650px) {
+  .btn-slide {
+      display: none;
+  }
+} */

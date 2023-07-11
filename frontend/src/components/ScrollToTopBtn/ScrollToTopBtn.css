@@ -1,0 +1,59 @@
+.scrolltotop-btn-0 {
+  position: fixed;
+  height: 45px;
+  width: 45px;
+  background: transparent;
+  color: transparent;
+  right: 15px;
+  bottom: 15px;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: none;
+  z-index: 998;
+  opacity: 0;
+  transition-property: opacity;
+  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-duration: .15s;
+}
+
+.scrolltotop-btn {
+  position: fixed;
+  height: 45px;
+  width: 45px;
+  background: #929292;
+  right: 15px;
+  bottom: 15px;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: none;
+  z-index: 998;
+  opacity: 1;
+  transition-property: opacity;
+  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-duration: .15s;
+}
+
+.scrolltotop-btn:hover {
+  filter: brightness(90%);
+}
+
+.scroll-svg {
+  fill: #fff;
+  width: 20px;
+  -webkit-animation: move 1s infinite  alternate;
+    animation: move 1s infinite  alternate;
+}
+
+@-webkit-keyframes move {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-5px); }
+}
+
+@keyframes move {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-5px); }
+}

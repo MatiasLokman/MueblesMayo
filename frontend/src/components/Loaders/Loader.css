@@ -1,0 +1,13 @@
+.loading-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #000000;
+}
+
+.loader{
+    width: 200px;
+    pointer-events: none;
+}

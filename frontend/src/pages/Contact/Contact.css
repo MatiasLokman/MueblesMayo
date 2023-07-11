@@ -1,0 +1,138 @@
+.contact-container {
+    height: 100vh;
+    width: 100%;
+    object-fit: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.contact-content-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    padding: 0 10%;
+    padding-top: 7%;
+}
+
+
+.contact-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+    text-align: justify;
+    gap: 50px;
+    max-width: 1300px;
+
+    flex-wrap: wrap;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+
+.contact-column-right {
+    width: calc(50% - 30px);
+}
+
+.contact-button {
+    border: none;
+    background: none;
+}
+
+.contact-row {
+    display: flex;
+    height: 65px;
+    align-items: center;
+}
+
+.clock {
+    height: 120px;
+    ;
+}
+
+.dias {
+    text-decoration: underline;
+}
+
+.contact-info {
+    margin-left: 30px;
+}
+
+.logo {
+    fill: #633E1B;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    width: 25px;
+}
+
+.contact-head {
+    font-weight: 500;
+    color: #000;
+    text-decoration: none;
+    text-decoration: none;
+}
+
+.contact-head:hover {
+    color: #633E1B;
+}
+
+.contact-sub-title {
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.contact-text {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 1100px) {
+    .contact-column-right {
+        width: 377px
+    }
+}
+
+
+@media (max-width: 930px) {
+    .contact-container {
+        height: 100%;
+    }
+
+    .contact-content {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .contact-column-left {
+        width: unset;
+    }
+
+    .contact-column-right {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .contact-column-right {
+        width: 300px
+    }
+
+}
+
+@media (max-width: 800) {
+    .abot-column-right {
+        font-size: 20px;
+    }
+}

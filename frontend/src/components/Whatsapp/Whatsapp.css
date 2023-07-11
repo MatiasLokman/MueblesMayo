@@ -1,0 +1,18 @@
+.btn-whatsapp svg {
+  width: 45px;
+  height: 45px;
+  padding: 10px;
+  fill: white;
+  vertical-align: middle;
+}
+
+.btn-whatsapp{
+  position: fixed;
+    bottom: 75px;
+    right: 15px;
+    z-index: 100;
+    color: white;
+    background-color: #4dc247;
+    box-shadow: 2px 2px 6px rgb(0 0 0 / 40%);
+    border-radius: 50%;
+}

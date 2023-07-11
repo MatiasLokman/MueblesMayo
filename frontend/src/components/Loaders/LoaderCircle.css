@@ -1,0 +1,10 @@
+.loading-container-circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.text-primary {
+  color: #633E1B !important;
+}

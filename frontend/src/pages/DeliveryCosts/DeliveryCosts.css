@@ -1,0 +1,156 @@
+.deliverycosts-container {
+  height: 100vh;
+  width: 100%;
+  object-fit: contain;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 50px 0;
+}
+
+.deliverycosts-photo {
+  height: 200px;
+  pointer-events: none;
+}
+
+.deliverycosts-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  gap: 50px;
+  padding: 0 10%;
+}
+
+.deliverycosts-button {
+  border: none;
+  background: none;
+}
+
+.columnas {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: center;
+}
+
+.sub-columnas {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 1500px) {
+  /* .deliverycosts-photo {
+      width: 600px;
+  } */
+}
+
+@media (max-width: 1400px) {
+  /* .deliverycosts-photo {
+      width: 500px;
+  } */
+}
+
+@media (max-width: 1300px) {
+  /* .deliverycosts-photo {
+      width: 400px;
+  } */
+}
+
+@media (max-width: 1200px) {
+  /* .deliverycosts-photo {
+      width: 300px;
+  } */
+}
+
+
+@media (max-width: 1100px) {
+  /* .deliverycosts-photo {
+      width: 340px;
+  } */
+
+  .deliverycosts-column-right {
+    width: 377px
+  }
+
+}
+
+@media (max-width: 1050px) {
+  .columnas {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  /* .deliverycosts-photo{
+    width: 400px;
+  } */
+}
+
+
+
+@media (max-width: 1000px) {
+  .deliverycosts-container {
+    height: 100%;
+  }
+
+  .deliverycosts-content {
+    flex-direction: column;
+    padding-top: 7%;
+  }
+
+  .deliverycosts-column-left {
+    width: unset;
+  }
+
+  /* .deliverycosts-photo {
+      width: 600px;
+  } */
+
+  .deliverycosts-column-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: auto;
+  }
+
+}
+
+@media (max-width: 800) {
+  .abot-column-right {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 780px) {
+  /* .deliverycosts-photo {
+      width: 500px !important;
+  } */
+
+  .deliverycosts-p {
+    font-size: 13.88px;
+    margin: 0;
+  }
+}
+
+/* @media (max-width: 700px) {
+  .deliverycosts-photo {
+      width: 400px !important;
+  }
+} */
+
+@media (max-width: 520px) {
+  .deliverycosts-photo {
+    width: 250px !important;
+    height: 150px;
+  }
+}
+
+/* @media (max-width: 400px) {
+  .deliverycosts-photo {
+      width: 250px !important;
+      height: 150px;
+  }
+} */

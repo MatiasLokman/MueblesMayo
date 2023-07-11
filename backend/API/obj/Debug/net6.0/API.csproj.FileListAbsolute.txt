@@ -1,0 +1,229 @@
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\API.exe
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\API.deps.json
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\API.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\User\Desktop\Muebles Mayo\backend\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\User\Desktop\Muebles Mayo\backend\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\API.exe
+c:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\API.deps.json
+c:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\API.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+c:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.pdb
+c:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+c:\Users\User\Desktop\MueblesMayo\backend\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\MueblesMayo\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\API.exe
+c:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\API.deps.json
+c:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\API.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\localstorage\backend\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+c:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.dll
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.pdb
+c:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+c:\Users\User\Desktop\localstorage\backend\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\API.exe
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\API.deps.json
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\API.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.dll
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\User\Desktop\backend\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\User\Desktop\backend\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\API.exe
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\API.deps.json
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\API.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\User\Desktop\MueblesMayo\backendCQRS\API\obj\Debug\net6.0\ref\API.dll

@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    vertical-align: middle;
+    object-fit: cover;
+}
+
+.title {
+    color: #633E1B;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.sub-title {
+    color: #633E1B;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.p {
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: justify;
+}
+
+
+@media (max-width: 947px) {
+    .title {
+        margin-top: 50px;
+    }
+}
